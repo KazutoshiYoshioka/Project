@@ -1,0 +1,4 @@
+void tesfunction()
+{
+	printf("testtes");
+}
